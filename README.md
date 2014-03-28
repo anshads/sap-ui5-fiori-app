@@ -1,5 +1,5 @@
 SAP UI Fiori - Purchase Order Processing
-=========
+----------------------------------------
 
 ## Purchase order processing application demo.
 
